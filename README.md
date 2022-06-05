@@ -8,17 +8,17 @@ concepts like access structures, indexing. Using C++ and gtest.
 3. Linux subsystem installed if ypu are using windows device.
 
 # BUILD AND RUN PROJECTS
-> make clean
-> make
-> make a42.out
-> ./a42.out
+>make clean
+>make
+>make a42.out
+>./a42.out
 
 ### OR
 
 You can also run the following commands
 >./runTestCases42.sh 
-> make gtest
-> ./gtest.out
+>make gtest
+>./gtest.out
 These are the automated unit tests
 
 # IMPLEMENTATION
